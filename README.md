@@ -1,2 +1,1 @@
 
-# 👋 • Vamos programar juntis?
